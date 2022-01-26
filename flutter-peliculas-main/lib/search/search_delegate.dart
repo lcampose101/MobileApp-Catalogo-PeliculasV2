@@ -105,3 +105,5 @@ class _MovieItem extends StatelessWidget {
     );
   }
 }
+
+//Todas estas clases deberian de tener comentarios en los metodos sobre lo que hacen. 

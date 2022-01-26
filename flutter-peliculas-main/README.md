@@ -11,3 +11,6 @@ Recomendaciones al instalar esta aplicacion:
 
 Aplicacion desarrollada en Flutter por: Diego Alvarez Espinoza 
 
+
+El readme deberia de tener mejor defininido las secciones del mismo. Aqui hay un link que habla de como se puede hacer: https://www.markdownguide.org/cheat-sheet/ 
+Ademas de eso, todo el readme deberia de estar en ingles. Todo lo que sea codigo que alguien mas va a ver deberia de tener comentarios o documentos en Ingles. 

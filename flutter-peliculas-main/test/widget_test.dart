@@ -28,3 +28,6 @@ void main() {
     expect(find.text('1'), findsOneWidget);
   });
 }
+
+//Este ejemplo de aqui es perfecto ya que esto en si es testing. En este caso es Unit testing que es una parte
+//muy importante del proceso de QA en general. Dependiendo de tu lenguaje favorito, siempre es importante saber los frameworks de unit testing
